@@ -1,0 +1,41 @@
+
+https://codepen.io/robert-petersen/pen/eYZaBeg?editors=1100
+
+
+1. Semantic HTML doesnt just define the appearence of a web page but reinforces the meaning of content as well.
+2. HTML is hypertext markup language and is the standard language for designing web pages.
+3. Attributes provide more information about elements. Like designating a class or id or providing a path to an image displayed.
+4. The h1 tag is used of titles and section headers. It can be used more than once but you should provide classes if you want different titles to have diffrent characteristics.
+5. Two tags that require attributes are img and button.
+6. <!DOCTYPE html>
+7. An id is an attribute that is used to identify that element.
+8. Pretty much any block mostly section,div,a,p,etc
+9. You should only use it once.
+10. A class helps you identify certin elements.
+11. all
+12. as many as you want but keep them organized
+13. target="_blank"
+14. gives alternate text for an image
+15. #idname
+16. div is more of a grouping and section defines a certain topic
+17. styling
+18. h2{}
+19. class should be used to select similar things and id should be used to define one thing
+20. .classname
+21. .human
+22. child are linked inside of parent and are good for lists
+23. .sidebar link{}
+24. used to style elements when its in a certain state ex hover, visited,link, active
+25. line-height changes spacing between lines
+26. letter-spacing changes space between letters
+27. text-transform:capitalize, uppercase, lowercase;
+28. border:1px dotted black;
+29. *{}
+30. /* comment */
+31. pwd
+32. ls
+33. rm filename   you need to be careful beacause there is no going back once you hit enter
+34. you can go back to a previous revision 
+35. when you have made a change
+36. git push -u orgin first-last
+37. fork pull clone branch work commit push
